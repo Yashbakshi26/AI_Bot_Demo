@@ -49,9 +49,8 @@ Example:
 
 ## 📦 To Deploy on Streamlit Cloud
 
-1. Push this folder to a GitHub repository.
-2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
-3. Connect your repo and deploy!
+1. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
+2. Connect your repo and deploy!
 
 ---
 
