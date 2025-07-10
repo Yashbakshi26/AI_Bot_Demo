@@ -5,7 +5,7 @@ This Streamlit app showcases a **Custom GPT-powered lead enrichment tool** desig
 ## 🚀 Features
 
 - Enter **industry, role, location, and use case**
-- Fetch a small list of **mocked B2B leads**
+- Fetch a small list of **B2B leads**
 - Automatically **generate a personalized hook** for each lead using GPT-4
 - View and **download a CSV file** with enriched data
 
